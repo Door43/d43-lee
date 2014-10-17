@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[lee:home|Door43 (lee)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-lee|d43-lee repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-lee/archive/master.zip|d43-lee.zip]]
+
+**Recent Changes**
+{{changes>ns = lee}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/lee|Ethnologue data]]
+
